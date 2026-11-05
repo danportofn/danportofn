@@ -16,4 +16,4 @@ Estudante de **Engenharia de Software na Universidade de Brasília (UnB)**. Gost
 
 #### Contato
 
-[LinkedIn](https://www.linkedin.com/in/) · danielportofn@gmail.com
+[LinkedIn](https://www.linkedin.com/in/daniel-porto-fernandes-19b065259) · danielportofn@gmail.com
